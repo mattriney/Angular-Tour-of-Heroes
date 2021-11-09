@@ -2,8 +2,8 @@
   "name": "angular-tour-of-heroes",
   "version": "0.0.0",
   "engines": {
-    "node": "7.23.0",
-    "npm": "14.17.6"
+    "node": "14.17.6",
+    "npm": "7.23.0"
   },
   "scripts": {
     "ng": "ng",
